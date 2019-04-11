@@ -3,6 +3,7 @@ A curated list of awesome Qazaqstan developer resources.
 
 - [Hosting](#hosting)
 - [Goverment API and SDK](#goverment_api_and_sdk)
+- [Useful services](#useful_services)
 
 ---
 
@@ -20,3 +21,10 @@ A curated list of awesome Qazaqstan developer resources.
 * [ESF SDK](http://kgd.gov.kz/ru/content/api-interfeys-web-prilozheniya-elektronnye-scheta-faktury-1) ESF SDK based on Soap
 * [State procurements API v.1](https://www.goszakup.gov.kz/ru/developer/ows) State procurements API
 * [State procurements API v.2](https://www.goszakup.gov.kz/ru/developer/ows_v2) State procurements API via GraphQL
+
+
+## Useful services
+
+* [ezSigner](https://ezsigner.kz/#!/main) Service for signatures and verifications of electronic documents
+* [Supreme Court of Kazakhstan](http://office.sud.kz/legitimacy/index.xhtml) Check the legitimacy of the judicial act
+* [Geo IP](http://www.geoip.kz/index.html) Geolocation information from the IP address
