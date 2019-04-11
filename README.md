@@ -4,6 +4,7 @@ A curated list of awesome Qazaqstan developer resources.
 - [Hosting](#hosting)
 - [Governmental API and SDK](#governmental-api-and_sdk)
 - [Public API](#public-api)
+- [Crowdfunding and startups](#crowdfunding-and-startups)
 - [Useful services](#useful-services)
 
 ---
@@ -27,6 +28,14 @@ A curated list of awesome Qazaqstan developer resources.
 ## Public API
 
 * [Exline API](https://api.exline.systems/docs) API of the courier service Exline
+
+
+## Crowdfunding and startups
+
+* [Business Incubator MOST](http://most.com.kz/)
+* [Qaztech business incubation](https://qaztech.vc/activity/business-incubation/)
+* [ico.Startup Kazakhstan](https://techgarden.kz/ru/startupkz)
+* [Startup program Damu](https://www.damu.kz/programmi/programmy-dlya-nachinayushchikh-predprinimateley/)
 
 
 ## Useful services
