@@ -3,6 +3,7 @@ A curated list of awesome Qazaqstan developer resources.
 
 - [Hosting](#hosting)
 - [Governmental API and SDK](#governmental-api-and_sdk)
+- [Public API](#public_api)
 - [Useful services](#useful-services)
 
 ---
