@@ -5,6 +5,8 @@ A curated list of awesome Qazaqstan developer resources.
 - [Governmental API and SDK](#governmental-api-and_sdk)
 - [Public API](#public-api)
 - [Crowdfunding and startups](#crowdfunding-and-startups)
+- [Qazaq language](#qazaq-language)
+- [Qazaq language useful resources](#qazaq-language-useful-resources)
 - [Useful services](#useful-services)
 
 ---
@@ -36,6 +38,19 @@ A curated list of awesome Qazaqstan developer resources.
 * [Qaztech business incubation](https://qaztech.vc/activity/business-incubation/)
 * [ico.Startup Kazakhstan](https://techgarden.kz/ru/startupkz)
 * [Startup program Damu](https://www.damu.kz/programmi/programmy-dlya-nachinayushchikh-predprinimateley/)
+
+
+## Qazaq language
+
+* [Dictionary](https://sozdik.kz/) Qazaq <-> Russian dictionary
+* [Soyle](https://www.soyle.kz/) Free online course of Qazaq language
+* [QLang online courses](https://qlang.kz/) Online courses in the study of the Kazakh language
+
+
+## Qazaq language useful resources
+
+* [Font Squirrel](https://www.fontsquirrel.com/fonts/list/language/kazakh) Fonts that support the Qazaq (Cyrillic) language
+* [Microsoft](https://www.microsoft.com/kk-kz/download/details.aspx?id=17036) Qazaq language pack for Windows7. Windows 8 and higher have a buildin qazaq language support
 
 
 ## Useful services
