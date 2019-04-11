@@ -23,8 +23,15 @@ A curated list of awesome Qazaqstan developer resources.
 * [State procurements API v.2](https://www.goszakup.gov.kz/ru/developer/ows_v2) State procurements API via GraphQL
 
 
+## Public API
+
+* [Exline API](https://api.exline.systems/docs) API of the courier service Exline
+
+
 ## Useful services
 
+* [Prosecutor](https://qamqor.gov.kz) Information service of the Prosecutor General's Office
+* [eLicense](http://elicense.kz/LicensingContent/SimpleSearchLicense) Activity license check
 * [ezSigner](https://ezsigner.kz/#!/main) Service for signatures and verifications of electronic documents
 * [Supreme Court of Kazakhstan](http://office.sud.kz/legitimacy/index.xhtml) Check the legitimacy of the judicial act
 * [Geo IP](http://www.geoip.kz/index.html) Geolocation information from the IP address
