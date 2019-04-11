@@ -2,7 +2,7 @@
 A curated list of awesome Qazaqstan developer resources.
 
 - [Hosting](#hosting)
-- [Goverment API and SDK](#goverment-api-and_sdk)
+- [Governmental API and SDK](#governmental-api-and_sdk)
 - [Useful services](#useful-services)
 
 ---
@@ -13,7 +13,7 @@ A curated list of awesome Qazaqstan developer resources.
 * [Oblako](https://oblako.kz) - cloud hosting
 
 
-## Goverment API and SDK
+## Governmental API and SDK
 
 * [National Certification Authority](http://pki.gov.kz/index.php/ru/razrabotchikam) Page where explain how to get the SDK
 * [State Open Data](https://data.egov.kz/pages/samples) Goverment Open Data API with samples
