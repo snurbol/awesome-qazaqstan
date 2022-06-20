@@ -19,7 +19,7 @@ A curated list of awesome Qazaqstan developer resources.
 
 ## Governmental API and SDK
 
-* [National Certification Authority](http://pki.gov.kz/index.php/ru/razrabotchikam) Page where explain how to get the SDK
+* [National Certification Authority](https://pki.gov.kz/developers/) Page where explain how to get the SDK
 * [State Open Data](https://data.egov.kz/pages/samples) Goverment Open Data API with samples
 * [Registry of state property](https://www.gosreestr.kz/ru/api.aspx) Registry of state property API
 * [ESF SDK](http://kgd.gov.kz/ru/content/api-interfeys-web-prilozheniya-elektronnye-scheta-faktury-1) ESF SDK based on Soap
