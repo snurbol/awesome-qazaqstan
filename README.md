@@ -58,5 +58,6 @@ A curated list of awesome Qazaqstan developer resources.
 * [Prosecutor](https://qamqor.gov.kz) Information service of the Prosecutor General's Office
 * [eLicense](http://elicense.kz/LicensingContent/SimpleSearchLicense) Activity license check
 * [ezSigner](https://ezsigner.kz/#!/main) Service for signatures and verifications of electronic documents
+* [NCANode](https://github.com/malikzh/NCANode) Application for working with the national crypto signature system (aka independent NCALayer)
 * [Supreme Court of Kazakhstan](http://office.sud.kz/legitimacy/index.xhtml) Check the legitimacy of the judicial act
 * [Geo IP](http://www.geoip.kz/index.html) Geolocation information from the IP address
